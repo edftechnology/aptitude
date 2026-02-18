@@ -12,7 +12,7 @@ _This document shows the steps required to install the `aptitude` utility on `Li
 
 ### `aptitude`
 
-O `aptitude` é uma interface mais amigável (com modo texto interativo) para gerenciar pacotes no Debian e derivados (como Ubuntu), podendo substituir comandos como `apt`, `apt-get` e `dpkg` em muitas situações.
+O `aptitude` é uma _interface_ mais amigável (com modo texto interativo) para gerenciar pacotes no `Debian` e derivados (como `Ubuntu`), podendo substituir comandos como `apt`, `apt-get` e `dpkg` em muitas situações.
 
 ## 1. Instalar o `aptitude` no `Linux Ubuntu`
 
